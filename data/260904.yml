@@ -1,0 +1,60 @@
+about:
+  description:
+  |
+    YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
+  license: MIT
+  homepage: https://ytm-player.com/
+  head: d087140
+  archived: false
+  latestVersion: v2.0.0
+  collectedAt: 2026-09-04T05:03:43Z
+timeline:
+  created: 2026-02-12
+  lastCommit: 2026-09-03
+  lastRelease: 2026-07-04
+popularity:
+  star: 494
+  watcher: 3
+  fork: 40
+  release: 31
+  contributor: 13
+  pullRequest: 25
+  issue: 78
+language:
+  Python: 1639221
+  Nix: 7841
+  Shell: 1539
+totalBytes: 1648601
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 1
+    openPR: 6
+    closedIssue: 2
+    openIssue: 9
+    commit: 2
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 7
+    openPR: 12
+    closedIssue: 6
+    openIssue: 13
+    commit: 123
+  last180d:
+    since: 2026-03-08
+    release: 31
+    mergedPR: 30
+    openPR: 12
+    closedIssue: 55
+    openIssue: 13
+    commit: 450
+  last360d:
+    since: 2025-09-09
+    release: 31
+    mergedPR: 36
+    openPR: 12
+    closedIssue: 65
+    openIssue: 13
+    commit: 566
