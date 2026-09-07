@@ -1,0 +1,151 @@
+about:
+  description: "YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys"
+  license: MIT
+  homepage: https://ytm-player.com/
+  head: a997dfa
+  archived: false
+  latestVersion: "v2.0.0"
+  collectedAt: 2026-09-07T04:56:12Z
+timeline:
+  created: 2026-02-12
+  lastCommit: 2026-09-07
+  lastRelease: 2026-07-04
+popularity:
+  star: 496
+  watcher: 3
+  fork: 40
+  release: 31
+  contributor: 16
+  pullRequest: 77
+  issue: 80
+language:
+  Python: 1965808
+  Nix: 7045
+  Shell: 1566
+totalBytes: 1974419
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 18
+    openPR: 3
+    closedIssue: 7
+    openIssue: 5
+    commit: 52
+  last60d:
+    since: 2026-07-09
+    release: 0
+    mergedPR: 23
+    openPR: 6
+    closedIssue: 9
+    openIssue: 7
+    commit: 56
+  last90d:
+    since: 2026-06-09
+    release: 3
+    mergedPR: 27
+    openPR: 6
+    closedIssue: 14
+    openIssue: 7
+    commit: 168
+  last180d:
+    since: 2026-03-11
+    release: 18
+    mergedPR: 49
+    openPR: 6
+    closedIssue: 60
+    openIssue: 7
+    commit: 497
+  last360d:
+    since: 2025-09-12
+    release: 31
+    mergedPR: 57
+    openPR: 6
+    closedIssue: 73
+    openIssue: 7
+    commit: 620
+  last720d:
+    since: 2024-09-17
+    release: 31
+    mergedPR: 57
+    openPR: 6
+    closedIssue: 73
+    openIssue: 7
+    commit: 645
+total:
+  release: 31
+  mergedPR: 57
+  openPR: 6
+  closedIssue: 73
+  openIssue: 7
+  commit: 645
+---
+path: /home/runner/.x-repo/github.com/peternaame-boop/ytm-player
+collectedAt: 2026-09-07T04:56:13Z
+loc:
+  Python:
+    code: 40003
+    comments: 2522
+    blanks: 8974
+    files: 195
+  Nix:
+    code: 183
+    comments: 11
+    blanks: 10
+    files: 1
+  Toml:
+    code: 114
+    comments: 20
+    blanks: 13
+    files: 1
+  Svg:
+    code: 34
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1401
+    blanks: 555
+    files: 13
+total:
+  code: 40567
+  comments: 3975
+  blanks: 9562
+  files: 212
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:56:14+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
