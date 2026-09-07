@@ -2,92 +2,92 @@ about:
   description: "YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys"
   license: MIT
   homepage: https://ytm-player.com/
-  head: a997dfa
+  head: 03be3eb
   archived: false
   latestVersion: "v2.0.0"
-  collectedAt: 2026-09-07T04:56:12Z
+  collectedAt: 2026-09-07T19:31:40Z
 timeline:
   created: 2026-02-12
   lastCommit: 2026-09-07
   lastRelease: 2026-07-04
 popularity:
-  star: 496
+  star: 495
   watcher: 3
   fork: 40
   release: 31
   contributor: 16
-  pullRequest: 77
-  issue: 80
+  pullRequest: 78
+  issue: 79
 language:
-  Python: 1965808
+  Python: 2053298
   Nix: 7045
   Shell: 1566
-totalBytes: 1974419
+totalBytes: 2061909
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 18
+    mergedPR: 19
     openPR: 3
-    closedIssue: 7
+    closedIssue: 6
     openIssue: 5
-    commit: 52
+    commit: 53
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 23
+    mergedPR: 24
     openPR: 6
-    closedIssue: 9
+    closedIssue: 8
     openIssue: 7
-    commit: 56
+    commit: 57
   last90d:
     since: 2026-06-09
     release: 3
-    mergedPR: 27
+    mergedPR: 28
     openPR: 6
-    closedIssue: 14
+    closedIssue: 13
     openIssue: 7
-    commit: 168
+    commit: 169
   last180d:
     since: 2026-03-11
     release: 18
-    mergedPR: 49
+    mergedPR: 50
     openPR: 6
-    closedIssue: 60
+    closedIssue: 59
     openIssue: 7
-    commit: 497
+    commit: 498
   last360d:
     since: 2025-09-12
     release: 31
-    mergedPR: 57
+    mergedPR: 58
     openPR: 6
-    closedIssue: 73
+    closedIssue: 72
     openIssue: 7
-    commit: 620
+    commit: 621
   last720d:
     since: 2024-09-17
     release: 31
-    mergedPR: 57
+    mergedPR: 58
     openPR: 6
-    closedIssue: 73
+    closedIssue: 72
     openIssue: 7
-    commit: 645
+    commit: 646
 total:
   release: 31
-  mergedPR: 57
+  mergedPR: 58
   openPR: 6
-  closedIssue: 73
+  closedIssue: 72
   openIssue: 7
-  commit: 645
+  commit: 646
 ---
 path: /home/runner/.x-repo/github.com/peternaame-boop/ytm-player
-collectedAt: 2026-09-07T04:56:13Z
+collectedAt: 2026-09-07T19:31:41Z
 loc:
   Python:
-    code: 40003
-    comments: 2522
-    blanks: 8974
-    files: 195
+    code: 41805
+    comments: 2551
+    blanks: 9330
+    files: 198
   Nix:
     code: 183
     comments: 11
@@ -105,19 +105,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 1401
+    comments: 1405
     blanks: 555
     files: 13
 total:
-  code: 40567
-  comments: 3975
-  blanks: 9562
-  files: 212
+  code: 42369
+  comments: 4008
+  blanks: 9918
+  files: 215
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:14+00:00
+  collectedAt: 2026-09-07T19:31:41+00:00
   platform:
     darwin/arm64:
       name:  null
