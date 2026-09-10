@@ -1,0 +1,115 @@
+- repo: aur
+  srcname: ytm-player
+  binname: ytm-player
+  visiblename: ytm-player
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: A full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ytm-player-git
+  binname: ytm-player-git
+  visiblename: ytm-player-git
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: rolling
+  summary: A full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - pnaame@aur
+  licenses:
+    - MIT
+- repo: gentoo_ovl_guru
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 2.0.0
+  origversion: null
+  status: legacy
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: gentoo_ovl_guru
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: gentoo_ovl_guru
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 1.9.2
+  origversion: null
+  status: legacy
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 1.8.0
+  origversion: null
+  status: legacy
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 1.9.3
+  origversion: null
+  status: outdated
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
