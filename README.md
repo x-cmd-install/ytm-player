@@ -23,7 +23,13 @@ x install ytm-player
 - **Latest**: `v2.1.0` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 2
-- **Published**: 2026-09-08T06:40:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ytm_player-2.1.0-py3-none-any.whl](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0-py3-none-any.whl) | 319.5 KiB | `other` |
+| [ytm_player-2.1.0.tar.gz](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0.tar.gz) | 1.9 MiB | `native/unknown` |
 
 ## Popularity
 
@@ -58,8 +64,8 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ytm-player` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ytm-player.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ytm-player.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:25Z._
