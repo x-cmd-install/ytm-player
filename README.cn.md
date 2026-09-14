@@ -38,22 +38,22 @@ x install ytm-player
 
 ## 流行度
 
-- **Star**: 503 · **Fork**: 38 · **开放 issue**: 79 · **贡献者**: 16
+- **Star**: 505 · **Fork**: 39 · **开放 issue**: 79 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 67 · **开放 PR**: 5 · **已关闭 issue**: 73 · **开放 issue**: 6 · **提交数**: 655
+- **发布数**: 32 · **已合并 PR**: 67 · **开放 PR**: 6 · **已关闭 issue**: 73 · **开放 issue**: 6 · **提交数**: 655
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 27 | 2 | 5 | 4 | 43 |
-| last60d | 2026-07-15 | 1 | 33 | 5 | 8 | 6 | 66 |
-| 90d | 2026-06-15 | 4 | 37 | 5 | 13 | 6 | 167 |
-| last180d | 2026-03-17 | 18 | 59 | 5 | 59 | 6 | 506 |
-| 360d | 2025-09-18 | 32 | 67 | 5 | 73 | 6 | 630 |
-| last720d | 2024-09-23 | 32 | 67 | 5 | 73 | 6 | 655 |
+| 30d | 2026-08-15 | 1 | 27 | 3 | 4 | 4 | 43 |
+| last60d | 2026-07-16 | 1 | 33 | 6 | 8 | 6 | 66 |
+| 90d | 2026-06-16 | 4 | 37 | 6 | 13 | 6 | 167 |
+| last180d | 2026-03-18 | 17 | 59 | 6 | 58 | 6 | 506 |
+| 360d | 2025-09-19 | 32 | 67 | 6 | 73 | 6 | 630 |
+| last720d | 2024-09-24 | 32 | 67 | 6 | 73 | 6 | 655 |
 
 ## Release 资产
 
@@ -61,10 +61,6 @@ x install ytm-player
 |------|-----:|----------|
 | [ytm_player-2.1.0-py3-none-any.whl](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0-py3-none-any.whl) | 319.5 KiB | `other` |
 | [ytm_player-2.1.0.tar.gz](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0.tar.gz) | 1.9 MiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ytm-player) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -75,4 +71,4 @@ ytm-player 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:04:02Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:18:36Z._

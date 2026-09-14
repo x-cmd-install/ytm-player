@@ -38,22 +38,22 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 503 · **Forks**: 38 · **Open issues**: 79 · **Contributors**: 16
+- **Stars**: 505 · **Forks**: 39 · **Open issues**: 79 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 67 · **Open PRs**: 5 · **Closed issues**: 73 · **Open issues**: 6 · **Commits**: 655
+- **Releases**: 32 · **Merged PRs**: 67 · **Open PRs**: 6 · **Closed issues**: 73 · **Open issues**: 6 · **Commits**: 655
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 27 | 2 | 5 | 4 | 43 |
-| last60d | 2026-07-15 | 1 | 33 | 5 | 8 | 6 | 66 |
-| 90d | 2026-06-15 | 4 | 37 | 5 | 13 | 6 | 167 |
-| last180d | 2026-03-17 | 18 | 59 | 5 | 59 | 6 | 506 |
-| 360d | 2025-09-18 | 32 | 67 | 5 | 73 | 6 | 630 |
-| last720d | 2024-09-23 | 32 | 67 | 5 | 73 | 6 | 655 |
+| 30d | 2026-08-15 | 1 | 27 | 3 | 4 | 4 | 43 |
+| last60d | 2026-07-16 | 1 | 33 | 6 | 8 | 6 | 66 |
+| 90d | 2026-06-16 | 4 | 37 | 6 | 13 | 6 | 167 |
+| last180d | 2026-03-18 | 17 | 59 | 6 | 58 | 6 | 506 |
+| 360d | 2025-09-19 | 32 | 67 | 6 | 73 | 6 | 630 |
+| last720d | 2024-09-24 | 32 | 67 | 6 | 73 | 6 | 655 |
 
 ## Release assets
 
@@ -61,10 +61,6 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 |-------|-----:|--------|
 | [ytm_player-2.1.0-py3-none-any.whl](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0-py3-none-any.whl) | 319.5 KiB | `other` |
 | [ytm_player-2.1.0.tar.gz](https://github.com/peternaame-boop/ytm-player/releases/download/v2.1.0/ytm_player-2.1.0.tar.gz) | 1.9 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/ytm-player). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -75,4 +71,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:04:01Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:18:36Z._
