@@ -4,7 +4,7 @@
 
 YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 
-![ytm-player](https://repo.x-cmd.io/ytm-player.svg?lang=zh)
+[![x-cmd/install — ytm-player Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ytm-player.svg?lang=zh)](https://x-cmd.com/install/ytm-player)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install ytm-player
 
 ## 流行度
 
-- **Star**: 510 · **Fork**: 40 · **开放 issue**: 82 · **贡献者**: 16
+- **Star**: 511 · **Fork**: 40 · **开放 issue**: 83 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 67 · **开放 PR**: 6 · **已关闭 issue**: 73 · **开放 issue**: 9 · **提交数**: 655
+- **发布数**: 32 · **已合并 PR**: 67 · **开放 PR**: 7 · **已关闭 issue**: 73 · **开放 issue**: 10 · **提交数**: 655
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 26 | 3 | 4 | 7 | 43 |
-| last60d | 2026-07-20 | 1 | 32 | 6 | 8 | 9 | 66 |
-| 90d | 2026-06-20 | 3 | 37 | 6 | 13 | 9 | 167 |
-| last180d | 2026-03-22 | 17 | 59 | 6 | 58 | 9 | 506 |
-| 360d | 2025-09-23 | 32 | 67 | 6 | 73 | 9 | 630 |
-| last720d | 2024-09-28 | 32 | 67 | 6 | 73 | 9 | 655 |
+| 30d | 2026-08-21 | 1 | 26 | 3 | 3 | 7 | 40 |
+| last60d | 2026-07-22 | 1 | 32 | 7 | 8 | 10 | 63 |
+| 90d | 2026-06-22 | 3 | 35 | 7 | 13 | 10 | 158 |
+| last180d | 2026-03-24 | 17 | 59 | 7 | 57 | 10 | 505 |
+| 360d | 2025-09-25 | 32 | 67 | 7 | 73 | 10 | 630 |
+| last720d | 2024-09-30 | 32 | 67 | 7 | 73 | 10 | 655 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ ytm-player 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:58:51Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:13:32Z._

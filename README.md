@@ -4,7 +4,7 @@
 
 YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 
-![ytm-player](https://repo.x-cmd.io/ytm-player.svg)
+[![x-cmd/install — ytm-player Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ytm-player.svg)](https://x-cmd.com/install/ytm-player)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 510 · **Forks**: 40 · **Open issues**: 82 · **Contributors**: 16
+- **Stars**: 511 · **Forks**: 40 · **Open issues**: 83 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 67 · **Open PRs**: 6 · **Closed issues**: 73 · **Open issues**: 9 · **Commits**: 655
+- **Releases**: 32 · **Merged PRs**: 67 · **Open PRs**: 7 · **Closed issues**: 73 · **Open issues**: 10 · **Commits**: 655
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 26 | 3 | 4 | 7 | 43 |
-| last60d | 2026-07-20 | 1 | 32 | 6 | 8 | 9 | 66 |
-| 90d | 2026-06-20 | 3 | 37 | 6 | 13 | 9 | 167 |
-| last180d | 2026-03-22 | 17 | 59 | 6 | 58 | 9 | 506 |
-| 360d | 2025-09-23 | 32 | 67 | 6 | 73 | 9 | 630 |
-| last720d | 2024-09-28 | 32 | 67 | 6 | 73 | 9 | 655 |
+| 30d | 2026-08-21 | 1 | 26 | 3 | 3 | 7 | 40 |
+| last60d | 2026-07-22 | 1 | 32 | 7 | 8 | 10 | 63 |
+| 90d | 2026-06-22 | 3 | 35 | 7 | 13 | 10 | 158 |
+| last180d | 2026-03-24 | 17 | 59 | 7 | 57 | 10 | 505 |
+| 360d | 2025-09-25 | 32 | 67 | 7 | 73 | 10 | 630 |
+| last720d | 2024-09-30 | 32 | 67 | 7 | 73 | 10 | 655 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:13:32Z._
