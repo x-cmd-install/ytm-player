@@ -4,7 +4,7 @@
 
 YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 
-[![x-cmd/install — ytm-player Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ytm-player.svg)](https://x-cmd.com/install/ytm-player)
+[![x-cmd/install — ytm-player Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ytm-player.svg)](https://x-cmd.com/install/ytm-player)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 511 · **Forks**: 40 · **Open issues**: 84 · **Contributors**: 16
+- **Stars**: 511 · **Forks**: 41 · **Open issues**: 84 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 26 | 3 | 3 | 8 | 40 |
-| last60d | 2026-07-24 | 1 | 32 | 7 | 8 | 11 | 63 |
-| 90d | 2026-06-24 | 3 | 35 | 7 | 12 | 11 | 158 |
-| last180d | 2026-03-26 | 17 | 59 | 7 | 57 | 11 | 505 |
-| 360d | 2025-09-27 | 32 | 67 | 7 | 73 | 11 | 630 |
-| last720d | 2024-10-02 | 32 | 67 | 7 | 73 | 11 | 655 |
+| 30d | 2026-08-24 | 1 | 26 | 3 | 3 | 8 | 40 |
+| last60d | 2026-07-25 | 1 | 32 | 7 | 8 | 10 | 63 |
+| 90d | 2026-06-25 | 3 | 35 | 7 | 12 | 11 | 158 |
+| last180d | 2026-03-27 | 17 | 58 | 7 | 57 | 11 | 505 |
+| 360d | 2025-09-28 | 32 | 67 | 7 | 73 | 11 | 630 |
+| last720d | 2024-10-03 | 32 | 67 | 7 | 73 | 11 | 655 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:11Z._
