@@ -14,15 +14,15 @@ x install ytm-player
 
 ## Code insight
 
-Total: **48,597** lines of code across **240** files in the top 5 languages.
+Total: **48,859** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,250 | 2,715 | 10,753 | 222 |
+| Python | 48,512 | 2,718 | 10,834 | 224 |
 | Nix | 183 | 11 | 10 | 1 |
 | Toml | 127 | 25 | 14 | 1 |
 | Svg | 37 | 0 | 0 | 2 |
-| Markdown | 0 | 1,416 | 567 | 14 |
+| Markdown | 0 | 1,420 | 570 | 14 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **48,597** lines of code across **240** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.0` (2026-09-08)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-10-10
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 523 · **Forks**: 46 · **Open issues**: 86 · **Contributors**: 16
+- **Stars**: 523 · **Forks**: 46 · **Open issues**: 86 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 67 · **Open PRs**: 11 · **Closed issues**: 74 · **Open issues**: 12 · **Commits**: 655
+- **Releases**: 32 · **Merged PRs**: 69 · **Open PRs**: 10 · **Closed issues**: 75 · **Open issues**: 11 · **Commits**: 657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 6 | 1 | 6 | 0 |
-| last60d | 2026-08-11 | 1 | 27 | 8 | 7 | 10 | 63 |
-| 90d | 2026-07-12 | 1 | 33 | 11 | 10 | 12 | 66 |
-| last180d | 2026-04-13 | 15 | 57 | 11 | 42 | 12 | 501 |
-| 360d | 2025-10-15 | 32 | 67 | 11 | 74 | 12 | 630 |
-| last720d | 2024-10-20 | 32 | 67 | 11 | 74 | 12 | 655 |
+| 30d | 2026-09-11 | 0 | 2 | 5 | 2 | 5 | 2 |
+| last60d | 2026-08-12 | 1 | 29 | 7 | 7 | 9 | 62 |
+| 90d | 2026-07-13 | 1 | 35 | 10 | 10 | 11 | 68 |
+| last180d | 2026-04-14 | 15 | 59 | 10 | 43 | 11 | 436 |
+| 360d | 2025-10-16 | 32 | 69 | 10 | 75 | 11 | 632 |
+| last720d | 2024-10-21 | 32 | 69 | 10 | 75 | 11 | 657 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:15:01Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:56:59Z._
