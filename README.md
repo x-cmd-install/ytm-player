@@ -38,22 +38,22 @@ Total: **49,066** lines of code across **242** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 542 · **Forks**: 51 · **Open issues**: 96 · **Contributors**: 19
+- **Stars**: 545 · **Forks**: 51 · **Open issues**: 97 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 71 · **Open PRs**: 15 · **Closed issues**: 76 · **Open issues**: 20 · **Commits**: 659
+- **Releases**: 32 · **Merged PRs**: 71 · **Open PRs**: 15 · **Closed issues**: 76 · **Open issues**: 21 · **Commits**: 659
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 3 | 5 | 1 | 9 | 4 |
-| last60d | 2026-09-02 | 1 | 29 | 11 | 4 | 15 | 4 |
-| 90d | 2026-08-03 | 1 | 32 | 13 | 10 | 19 | 67 |
-| last180d | 2026-05-05 | 4 | 44 | 15 | 26 | 20 | 191 |
-| 360d | 2025-11-06 | 32 | 71 | 15 | 76 | 20 | 634 |
-| last720d | 2024-11-11 | 32 | 71 | 15 | 76 | 20 | 659 |
+| 30d | 2026-10-03 | 0 | 3 | 5 | 1 | 10 | 4 |
+| last60d | 2026-09-03 | 1 | 28 | 11 | 4 | 16 | 4 |
+| 90d | 2026-08-04 | 1 | 32 | 13 | 10 | 20 | 67 |
+| last180d | 2026-05-06 | 4 | 44 | 15 | 26 | 21 | 191 |
+| 360d | 2025-11-07 | 32 | 71 | 15 | 76 | 21 | 634 |
+| last720d | 2024-11-12 | 32 | 71 | 15 | 76 | 21 | 659 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:18:52Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:17:32Z._
