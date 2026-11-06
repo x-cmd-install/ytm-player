@@ -48,12 +48,12 @@ Total: **49,066** lines of code across **242** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 3 | 6 | 1 | 10 | 4 |
-| last60d | 2026-09-06 | 1 | 17 | 11 | 3 | 15 | 4 |
-| 90d | 2026-08-07 | 1 | 32 | 14 | 10 | 20 | 67 |
-| last180d | 2026-05-09 | 4 | 44 | 16 | 23 | 21 | 191 |
-| 360d | 2025-11-10 | 32 | 71 | 16 | 76 | 21 | 634 |
-| last720d | 2024-11-15 | 32 | 71 | 16 | 76 | 21 | 659 |
+| 30d | 2026-10-07 | 0 | 3 | 6 | 1 | 10 | 4 |
+| last60d | 2026-09-07 | 1 | 10 | 11 | 3 | 15 | 4 |
+| 90d | 2026-08-08 | 1 | 32 | 13 | 10 | 19 | 67 |
+| last180d | 2026-05-10 | 4 | 44 | 16 | 22 | 21 | 191 |
+| 360d | 2025-11-11 | 32 | 71 | 16 | 76 | 21 | 634 |
+| last720d | 2024-11-16 | 32 | 71 | 16 | 76 | 21 | 659 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:54:16Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:50:53Z._
