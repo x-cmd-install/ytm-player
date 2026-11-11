@@ -33,27 +33,27 @@ Total: **55,782** lines of code across **277** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.0` (2026-11-09)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 551 · **Forks**: 53 · **Open issues**: 97 · **Contributors**: 27
+- **Stars**: 550 · **Forks**: 53 · **Open issues**: 97 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 94 · **Open PRs**: 1 · **Closed issues**: 90 · **Open issues**: 7 · **Commits**: 682
+- **Releases**: 33 · **Merged PRs**: 95 · **Open PRs**: 1 · **Closed issues**: 90 · **Open issues**: 7 · **Commits**: 683
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 17 | 0 | 8 | 3 | 25 |
-| last60d | 2026-09-11 | 1 | 23 | 1 | 13 | 5 | 27 |
-| 90d | 2026-08-12 | 2 | 52 | 1 | 20 | 7 | 89 |
-| last180d | 2026-05-14 | 5 | 67 | 1 | 35 | 7 | 214 |
-| 360d | 2025-11-15 | 33 | 94 | 1 | 90 | 7 | 657 |
-| last720d | 2024-11-20 | 33 | 94 | 1 | 90 | 7 | 682 |
+| 30d | 2026-10-12 | 1 | 18 | 0 | 8 | 3 | 26 |
+| last60d | 2026-09-12 | 1 | 24 | 1 | 13 | 5 | 28 |
+| 90d | 2026-08-13 | 2 | 53 | 1 | 20 | 7 | 90 |
+| last180d | 2026-05-15 | 5 | 68 | 1 | 35 | 7 | 215 |
+| 360d | 2025-11-16 | 33 | 95 | 1 | 90 | 7 | 658 |
+| last720d | 2024-11-21 | 33 | 95 | 1 | 90 | 7 | 683 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **55,782** lines of code across **277** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/ytm-player). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/ytm-player). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:29:21Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:26:19Z._
