@@ -25,6 +25,19 @@
 - repo: gentoo_ovl_guru
   srcname: media-sound/ytm-player
   visiblename: media-sound/ytm-player
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: gentoo_ovl_guru
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
   version: 2.0.0
   origversion: null
   status: legacy
@@ -53,7 +66,20 @@
   visiblename: media-sound/ytm-player
   version: 2.1.0
   origversion: null
-  status: outdated
+  status: legacy
+  summary: Full-featured YouTube Music TUI client with vim-style navigation
+  maintainers:
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/ytm-player
+  visiblename: media-sound/ytm-player
+  version: 2.2.0
+  origversion: null
+  status: newest
   summary: Full-featured YouTube Music TUI client with vim-style navigation
   maintainers:
     - ghostyn678+git@gmail.com
@@ -66,7 +92,7 @@
   visiblename: media-sound/ytm-player
   version: 2.1.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Full-featured YouTube Music TUI client with vim-style navigation
   maintainers:
     - ghostyn678+git@gmail.com
