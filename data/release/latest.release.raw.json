@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 339617,
       "digest": "sha256:876a7f23e0f43bfbea99136fce7a6e722f2ee5130be415c748e42ebfda601a57",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-09T18:32:00Z",
       "updated_at": "2026-11-09T18:32:01Z",
       "browser_download_url": "https://github.com/peternaame-boop/ytm-player/releases/download/v2.2.0/ytm_player-2.2.0-py3-none-any.whl"
