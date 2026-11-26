@@ -38,7 +38,7 @@ Total: **60,615** lines of code across **287** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 560 · **Forks**: 52 · **Open issues**: 101 · **Contributors**: 26
+- **Stars**: 561 · **Forks**: 52 · **Open issues**: 101 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **60,615** lines of code across **287** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 27 | 0 | 6 | 4 | 39 |
-| last60d | 2026-09-26 | 2 | 34 | 0 | 12 | 5 | 43 |
-| 90d | 2026-08-27 | 3 | 64 | 1 | 21 | 6 | 83 |
-| last180d | 2026-05-29 | 6 | 79 | 1 | 36 | 7 | 230 |
-| 360d | 2025-11-30 | 34 | 108 | 1 | 94 | 7 | 673 |
-| last720d | 2024-12-05 | 34 | 108 | 1 | 94 | 7 | 703 |
+| 30d | 2026-10-27 | 2 | 27 | 0 | 6 | 4 | 0 |
+| last60d | 2026-09-27 | 2 | 34 | 0 | 10 | 5 | 0 |
+| 90d | 2026-08-28 | 3 | 64 | 1 | 20 | 6 | 0 |
+| last180d | 2026-05-30 | 6 | 79 | 1 | 36 | 7 | 0 |
+| 360d | 2025-12-01 | 34 | 108 | 1 | 94 | 7 | 0 |
+| last720d | 2024-12-06 | 34 | 108 | 1 | 94 | 7 | 703 |
 
 ## Release assets
 
@@ -61,6 +61,10 @@ Total: **60,615** lines of code across **287** files in the top 5 languages.
 |-------|-----:|--------|
 | [ytm_player-2.3.0-py3-none-any.whl](https://github.com/peternaame-boop/ytm-player/releases/download/v2.3.0/ytm_player-2.3.0-py3-none-any.whl) | 352.6 KiB | `other` |
 | [ytm_player-2.3.0.tar.gz](https://github.com/peternaame-boop/ytm-player/releases/download/v2.3.0/ytm_player-2.3.0.tar.gz) | 2.1 MiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/ytm-player). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -71,4 +75,4 @@ Install metadata for ytm-player lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:11Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:26:08Z._
