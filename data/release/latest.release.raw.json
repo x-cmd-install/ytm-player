@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2174139,
       "digest": "sha256:3202cf2979b000191b6792d2bb4a7d4eaccd9cbb01381f5373e3c0757a2e5b5a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T01:17:32Z",
       "updated_at": "2026-11-25T01:17:32Z",
       "browser_download_url": "https://github.com/peternaame-boop/ytm-player/releases/download/v2.3.0/ytm_player-2.3.0.tar.gz"
